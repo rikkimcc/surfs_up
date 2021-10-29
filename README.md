@@ -19,6 +19,17 @@ Analysing historical temperature data (specifically looking at June and December
 
 - The maximum temperatures are shockingly very similar and only 2 degrees apart (85 F June and 83 F December)
 
+### Additional queries: 
+#### Precipitation statistics in June and December:
+<img width="1003" alt="Screen Shot 2021-10-29 at 5 56 28 PM" src="https://user-images.githubusercontent.com/89141436/139505910-843946f7-ae7a-4300-90c7-94fc687e9786.png">
+
+#### June 2010 - 2017 precipitation statistics:
+<img width="154" alt="Screen Shot 2021-10-29 at 5 59 44 PM" src="https://user-images.githubusercontent.com/89141436/139506116-3158de54-8ecb-4519-bd07-9e87f19c1fb7.png">
+
+#### December 2010 - 2017 precipitation statistics:
+<img width="154" alt="Screen Shot 2021-10-29 at 6 00 24 PM" src="https://user-images.githubusercontent.com/89141436/139506158-fdf99393-6d8a-4a38-8379-db136aca56fc.png">
+
 
 ### Summary: 
 - As expected, December weather is slightly more chilly than June. However, the numbers are fairly identical - with the average temperature in June being 74.9 F and December being 71 F, there would still be a demand in surfing and ice cream. 
+
